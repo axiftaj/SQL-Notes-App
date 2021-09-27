@@ -1,0 +1,4 @@
+#Fri Sep 24 15:50:56 PKT 2021
+base.0=/Users/asiftaj/Desktop/sql/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
