@@ -1,8 +1,11 @@
+
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
-import 'package:sql/user.dart';
+
 import 'dart:io' as io;
+
+import 'package:untitled1/notes_model.dart';
 
 class DBHelper {
 
